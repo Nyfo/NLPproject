@@ -7,3 +7,5 @@ Scripts/
 pyvenv.cfg
 etc/
 share/
+/english-qa/
+/multilingual-qa/
