@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bgv600_nordkorea_answerable",
+    "pair_id": "bgv600_nordkorea",
+    "created_by": "bgv600",
+    "question": "Hvor er Nord Korea?",
+    "context": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia.",
+    "lang": "da",
+    "answerable": true,
+    "answer_start": 90,
+    "answer": "East Asia",
+    "source_url": "https://en.wikipedia.org/wiki/North_Korea"
+  },
+  {
+    "id": "bgv600_nordkorea_unanswerable",
+    "pair_id": "bgv600_nordkorea",
+    "created_by": "bgv600",
+    "question": "Hvor er Danmark?",
+    "context": "North Korea, officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia.",
+    "lang": "da",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/North_Korea"
+  }
+]
