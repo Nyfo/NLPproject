@@ -22,5 +22,101 @@
     "answer_start": -1,
     "answer": "",
     "source_url": "https://en.wikipedia.org/wiki/North_Korea"
+  },
+  {
+    "id": "bgv600_FrankieGaye_answerable",
+    "pair_id": "bgv600_FrankieGaye",
+    "created_by": "bgv600",
+    "question": "Hvornår startede Frankie med at arbejde med sin bror?",
+    "context": "Starting in the mid-1970s, Frankie began working with his brother, joining him on the road during Gaye's concert tours and sometimes, to test audience reactions, Marvin would place Frankie onstage first before he arrived.",
+    "lang": "da",
+    "answerable": true,
+    "answer_start": 16,
+    "answer": "mid-1970s",
+    "source_url": "https://en.wikipedia.org/wiki/Frankie_Gaye"
+  },
+  {
+    "id": "bgv600_FrankieGaye_unanswerable",
+    "pair_id": "bgv600_FrankieGaye",
+    "created_by": "bgv600",
+    "question": "Hvornår stoppede Frankie med at arbejde med sin bror?",
+    "context": "Starting in the mid-1970s, Frankie began working with his brother, joining him on the road during Gaye's concert tours and sometimes, to test audience reactions, Marvin would place Frankie onstage first before he arrived.",
+    "lang": "da",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Frankie_Gaye"
+  },
+  {
+    "id": "bgv600_StevenLong_answerable",
+    "pair_id": "bgv600_StevenLong",
+    "created_by": "bgv600",
+    "question": "Hvornår blev Steven Wayne Long født?",
+    "context": "Steven Wayne Long (born April 14, 1994) is an American politician. He is a member of the South Carolina House of Representatives from the 37th District, serving since 2016. He is a member of the Republican Party.",
+    "lang": "da",
+    "answerable": true,
+    "answer_start": 24,
+    "answer": "April 14, 1994",
+    "source_url": "https://en.wikipedia.org/wiki/Steven_Wayne_Long"
+  },
+  {
+    "id": "bgv600_StevenLong_unanswerable",
+    "pair_id": "bgv600_StevenLong",
+    "created_by": "bgv600",
+    "question": "Hvornår blev Steven Wayne Long dræbt?",
+    "context": "Steven Wayne Long (born April 14, 1994) is an American politician. He is a member of the South Carolina House of Representatives from the 37th District, serving since 2016. He is a member of the Republican Party.",
+    "lang": "da",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Steven_Wayne_Long"
+  },
+  {
+    "id": "bgv600_Flower_answerable",
+    "pair_id": "bgv600_Flower",
+    "created_by": "bgv600",
+    "question": "Hvad er en Olearia stellulata?",
+    "context": "Olearia stellulata is a species of flowering plant in the family Asteraceae and is endemic to south-eastern Australia. It is a shrub with lance-shaped or narrowly elliptic leaves, and white and yellow or mauve, daisy-like inflorescences.",
+    "lang": "da",
+    "answerable": true,
+    "answer_start": 22,
+    "answer": "a species of flowering plant",
+    "source_url": "https://en.wikipedia.org/wiki/Olearia_stellulata"
+  },
+  {
+    "id": "bgv600_Flower_unanswerable",
+    "pair_id": "bgv600_Flower",
+    "created_by": "bgv600",
+    "question": "Hvad spiser en Olearia stellulata?",
+    "context": "Olearia stellulata is a species of flowering plant in the family Asteraceae and is endemic to south-eastern Australia. It is a shrub with lance-shaped or narrowly elliptic leaves, and white and yellow or mauve, daisy-like inflorescences.",
+    "lang": "da",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Olearia_stellulata"
+  },
+  {
+    "id": "bgv_longipennis_answerable",
+    "pair_id": "bgv_longipennis",
+    "created_by": "bgv600",
+    "question": "Hvem beskrev Massepha longipennis?",
+    "context": "Massepha longipennis is a moth in the family Crambidae. It was described by George Hampson in 1912. It is found in Cameroon.",
+    "lang": "da",
+    "answerable": true,
+    "answer_start": 76,
+    "answer": "George Hampson",
+    "source_url": "https://en.wikipedia.org/wiki/Massepha_longipennis"
+  },
+  {
+    "id": "bgv_longipennis_unanswerable",
+    "pair_id": "bgv_longipennis",
+    "created_by": "bgv600",
+    "question": "Hvem spiser Massepha longipennis?",
+    "context": "Massepha longipennis is a moth in the family Crambidae. It was described by George Hampson in 1912. It is found in Cameroon.",
+    "lang": "da",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Massepha_longipennis"
   }
 ]
