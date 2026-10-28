@@ -8,4 +8,4 @@ pyvenv.cfg
 etc/
 share/
 /english-qa/
-/multilingual-qa/
+multilingual-qa/
